@@ -1,7 +1,7 @@
 Hi, I'm Raunak Raj 👋  
 
 🎓 B.Tech in Computer Science (Data Science & Machine Learning specialization)  
-💻 Interested in Machine Learning, NLP, Python, frontend/UI redesign, hackathons & IoT prototyping  
+💻 Interested in Machine Learning,Deep Learning, Python, frontend/UI redesign, hackathons & IoT prototyping  
 🚀 Goal: Build polished ML + full‑stack projects that create meaningful impact and genuinely benefit society.
 
 
